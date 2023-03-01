@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="flips.FlipperTests" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-11-24T17:43:04" hostname="dhcp-128-189-220-246.ubcsecure.wireless.ubc.ca" time="0.005">
+  <properties/>
+  <testcase name="testFlipsSequence0" classname="flips.FlipperTests" time="0.001"/>
+  <testcase name="testFlipsSequence3" classname="flips.FlipperTests" time="0.001"/>
+  <testcase name="testFlipsSequence4" classname="flips.FlipperTests" time="0.001"/>
+  <testcase name="testSimilarPairsCountMaxInt" classname="flips.FlipperTests" time="0.0"/>
+  <testcase name="testFlipsMatches4" classname="flips.FlipperTests" time="0.0"/>
+  <testcase name="testFlipsMatches5" classname="flips.FlipperTests" time="0.0"/>
+  <testcase name="testFlipsMatches9" classname="flips.FlipperTests" time="0.0"/>
+  <testcase name="testSimilarPairsCount2" classname="flips.FlipperTests" time="0.0"/>
+  <testcase name="testSimilarPairsCount7" classname="flips.FlipperTests" time="0.0"/>
+  <testcase name="testSimilarPairsCount8" classname="flips.FlipperTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
